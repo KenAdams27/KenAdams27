@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="502" viewBox="0 0 1200 502" role="img" aria-label="About Vaibhav">
+<style>
+  .ln { animation: show .35s ease-out both; }
+  .cursor { animation: blink 1s steps(1) infinite; }
+  @keyframes show { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x=".5" y=".5" width="1199" height="501" rx="14" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 46V14.5A14 14 0 0 1 14.5 .5h1171a14 14 0 0 1 14 14V46z" fill="#161b22"/>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="#30363d"/>
+<circle cx="26" cy="23" r="7" fill="#ff5f57"/><circle cx="50" cy="23" r="7" fill="#febc2e"/><circle cx="74" cy="23" r="7" fill="#28c840"/>
+<text x="600.0" y="28" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8b949e">vaibhav@jaipur — zsh</text>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16.5">
+<g class="ln" style="animation-delay:0.30s"><text x="40" y="92"><tspan fill="#4fd1c5">vaibhav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#ffb86b">jaipur</tspan><tspan fill="#8b949e"> ~ $ </tspan><tspan fill="#e6edf3">cat about.txt</tspan></text></g>
+<g class="ln" style="animation-delay:0.85s"><text x="40" y="122" fill="#8b949e">AI engineer from Jaipur with a backend &amp; data engineering background.</text></g>
+<g class="ln" style="animation-delay:1.03s"><text x="40" y="152" fill="#8b949e">I wire LLM agents into messy real-world systems so the boring work runs itself.</text></g>
+<g class="ln" style="animation-delay:1.21s"><text x="40" y="196"><tspan fill="#4fd1c5">vaibhav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#ffb86b">jaipur</tspan><tspan fill="#8b949e"> ~ $ </tspan><tspan fill="#e6edf3">ls ./currently</tspan></text></g>
+<g class="ln" style="animation-delay:1.76s"><text x="40" y="226" fill="#ff6b6b">agentic-ai-pipelines/</text><text x="273.9" y="226" fill="#ffb86b">internal-tooling/</text><text x="468.2" y="226" fill="#4fd1c5">whatsapp-automation/</text><text x="692.2" y="226" fill="#a78bfa">studio-arc/</text></g>
+<g class="ln" style="animation-delay:1.94s"><text x="40" y="270"><tspan fill="#4fd1c5">vaibhav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#ffb86b">jaipur</tspan><tspan fill="#8b949e"> ~ $ </tspan><tspan fill="#e6edf3">cat ./currently/details.md</tspan></text></g>
+<g class="ln" style="animation-delay:2.49s"><text x="40" y="300"><tspan fill="#ff6b6b">• </tspan><tspan fill="#e6edf3">Agent pipelines across HR, marketing, accounts and merchandising</tspan></text></g>
+<g class="ln" style="animation-delay:2.67s"><text x="40" y="330"><tspan fill="#ff6b6b">• </tspan><tspan fill="#e6edf3">Payment reminders, CRM dashboards and reports straight from Tally + Google Sheets</tspan></text></g>
+<g class="ln" style="animation-delay:2.85s"><text x="40" y="360"><tspan fill="#ff6b6b">• </tspan><tspan fill="#e6edf3">Studio Arc: websites · apps · automations for clients</tspan></text></g>
+<g class="ln" style="animation-delay:3.03s"><text x="40" y="404"><tspan fill="#4fd1c5">vaibhav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#ffb86b">jaipur</tspan><tspan fill="#8b949e"> ~ $ </tspan><tspan fill="#e6edf3">echo $OPEN_TO</tspan></text></g>
+<g class="ln" style="animation-delay:3.58s"><text x="40" y="434" fill="#ff6b6b" font-weight="700">→ AI engineering roles at product companies &amp; fast-moving startups</text></g>
+<g class="ln" style="animation-delay:3.76s"><text x="40" y="468"><tspan fill="#4fd1c5">vaibhav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#ffb86b">jaipur</tspan><tspan fill="#8b949e"> ~ $ </tspan></text><rect x="203.2" y="453" width="10" height="19" fill="#ff6b6b" class="cursor"/></g>
+</g>
+</svg>

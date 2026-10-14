@@ -1,97 +1,83 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:ff6b6b&height=180&section=header&text=Vaibhav%20Pathak&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Builder%20of%20Agents%20%26%20Automations&descAlignY=55&descSize=16" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+agentic+AI+pipelines;Automating+real+businesses+end-to-end;WhatsApp+%2B+Instagram+automation;Backend+%E2%80%A2+Data+%E2%80%A2+LLMs+%E2%80%A2+IoT" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=KenAdams27&style=flat-square&color=ff6b6b&label=Profile+views" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India-0f172a?style=flat-square" alt="Jaipur"/>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-ff6b6b?style=flat-square" alt="open to roles"/>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Vaibhav Pathak — AI Engineer. I build agents that do real work."/>
 </p>
-
-</div>
-
----
-
-### 👋 About me
-
-```yaml
-name: Vaibhav Pathak
-role: AI Engineer
-location: Jaipur, Rajasthan, India
-education: BCA, Rajasthan University
-background: Backend & data engineering
-currently:
-  - Building agentic AI pipelines and internal tooling across HR, Marketing, Accounts & Merchandising
-  - Running Studio Arc, my freelance studio for websites, apps & automations
-loves: shipping things that real businesses use every day
-```
-
-- 🤖 I build **AI agents** that do actual work: generating reels, sending reminders, reconciling accounts, chasing payments
-- 🔗 I connect messy real-world systems (Tally, Google Sheets, WhatsApp, Instagram) into **automated pipelines**
-- 🛠️ On weekends I tinker with **ESP32 hardware**: cameras, mics, OLED robot faces
-- 💼 Freelancing as **Studio Arc**: *Websites · Apps · Automations*
-
----
-
-### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,vite,flask,cpp&perline=9" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,gcp,linux,docker,git,github,arduino&perline=9" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,tailwind,html,css,androidstudio,raspberrypi,vscode&perline=9" />
+  <a href="https://instagram.com/studioarcdev"><img src="https://img.shields.io/badge/Studio%20Arc-161b22?style=for-the-badge&logo=instagram&logoColor=ff6b6b" alt="Studio Arc on Instagram"/></a>
+  <!-- Uncomment and fill these in:
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=4fd1c5" alt="LinkedIn"/></a>
+  <a href="mailto:YOU@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffb86b" alt="Email"/></a>
+  -->
+  <img src="https://img.shields.io/badge/Jaipur,%20India-161b22?style=for-the-badge&logo=googlemaps&logoColor=a78bfa" alt="Jaipur, India"/>
 </p>
-
-**AI / Agents:** LLM APIs · agentic workflows · Claude Code · prompt engineering · RAG
-**Automation:** Google Apps Script · WhatsApp Business API · Meta Graph API · cron pipelines
-**Data:** Pandas · Tally exports · Google Sheets as a database · dashboards
-
----
-
-### 🚀 Things I've built
-
-| Project | What it does |
-|---|---|
-| 💬 **Iris** | WhatsApp + Instagram automation & CRM platform for small businesses |
-| 🎬 **Social Media Agent** | An AI agent that runs a brand's social media and renders reels automatically |
-| 📦 [**KOSH Inventory Dashboard**](https://github.com/KenAdams27/KOSH-Inventory-Dashboard) | Inventory and stock tracking dashboard |
-| 🖥️ **FusionDisplay** | Native C++20 / Direct3D 11 app that stretches one video across two differently-oriented monitors |
-| 🤖 **ESP32 robot face** | Voice-reactive animated eyes on an OLED, mic streamed over I2S |
-| 🧠 [**Bigram LLM**](https://github.com/KenAdams27/Bigram-LLM-Project) | A character-level language model built from scratch |
-| 🔥 [**Forest Fire Prediction**](https://github.com/KenAdams27/Forest-Fire-Prediction) | ML model predicting forest fire risk |
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KenAdams27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenAdams27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KenAdams27&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenAdams27&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-### 🤝 Let's connect
 
 <p align="center">
-  <a href="https://instagram.com/studioarcdev"><img src="https://img.shields.io/badge/Studio%20Arc-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vaibhav-pathak-450692254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pathakvaibhav273@gmail.com"><img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="assets/terminal.svg" width="100%" alt="About: AI engineer from Jaipur building agentic pipelines, internal tooling, WhatsApp automation and Studio Arc. Open to AI engineering roles."/>
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:0f172a&height=100&section=footer" width="100%"/>
-</div>
+## ⚡ Things I've built
+
+<p align="center">
+  <img src="assets/card-iris.svg" width="49%" alt="Iris — WhatsApp + Instagram CRM"/>
+  <img src="assets/card-social-agent.svg" width="49%" alt="Social Media Agent"/>
+  <a href="https://github.com/KenAdams27/KOSH-Inventory-Dashboard"><img src="assets/card-kosh.svg" width="49%" alt="KOSH Inventory Dashboard"/></a>
+  <img src="assets/card-fusiondisplay.svg" width="49%" alt="FusionDisplay"/>
+  <img src="assets/card-robot-face.svg" width="49%" alt="ESP32 Robot Face"/>
+  <a href="https://github.com/KenAdams27/Bigram-LLM-Project"><img src="assets/card-bigram.svg" width="49%" alt="Bigram LLM"/></a>
+</p>
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e"/>
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=659ad2"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Claude%20Code-161b22?style=for-the-badge&logo=claude&logoColor=d97757"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20API-161b22?style=for-the-badge&logo=whatsapp&logoColor=25d366"/>
+  <img src="https://img.shields.io/badge/Meta%20Graph%20API-161b22?style=for-the-badge&logo=meta&logoColor=0081fb"/>
+  <img src="https://img.shields.io/badge/Apps%20Script-161b22?style=for-the-badge&logo=googleappsscript&logoColor=4285f4"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-161b22?style=for-the-badge&logo=googlesheets&logoColor=34a853"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=fcc624"/>
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=f05032"/>
+  <img src="https://img.shields.io/badge/ESP32-161b22?style=for-the-badge&logo=espressif&logoColor=e7352c"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-161b22?style=for-the-badge&logo=raspberrypi&logoColor=a22846"/>
+  <img src="https://img.shields.io/badge/Remotion-161b22?style=for-the-badge&logo=remotion&logoColor=4fd1c5"/>
+</p>
+
+## 📈 On GitHub
+
+<!-- These images are generated by .github/workflows/profile-cards.yml into this repo -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg"/>
+    <img src="profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Contribution summary"/>
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg"/>
+    <img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+    <img src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+  </picture>
+</p>
+
+<!-- Generated by .github/workflows/snake.yml onto the `output` branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KenAdams27/KenAdams27/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/KenAdams27/KenAdams27/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
+</p>
